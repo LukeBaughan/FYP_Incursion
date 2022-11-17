@@ -1,0 +1,2 @@
+DD:
+ - Mention grid based, turrets change enemy path
