@@ -1,2 +1,3 @@
 DD:
- - Mention grid based, turrets change enemy path
+ - turrets change enemy path - Done?
+ - wave data in an actor
