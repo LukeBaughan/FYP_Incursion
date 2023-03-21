@@ -1,3 +1,3 @@
-DD:
- - turrets change enemy path - Done?
- - wave data in an actor
+Have only one health bar
+Regen health
+Store UI
