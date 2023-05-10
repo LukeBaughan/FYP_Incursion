@@ -16,6 +16,12 @@
 	- monster sound effects 2
 - Added main menu and in game BGM
 	- EDM pack
+- Meshed level 2 & Updated Main Menu Level
+	- Sci fi 1
+	- sci fi 2
+- Players Can press t to skip countodwn
+
+
 	
 UPDATE CREDITS
 
