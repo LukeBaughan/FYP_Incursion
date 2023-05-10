@@ -1,6 +1,8 @@
 Have only one health bar
 Regen health
 Store UI
+Fix turret targeting (shooting nothing, takes a while to shoot at first)
+towers can be placed on top of eachother (keep this for blockade only)
 
 -----
 

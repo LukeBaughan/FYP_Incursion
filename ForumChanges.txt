@@ -1,25 +1,24 @@
-- Added meshes to level 1
-	mention assets used
-- added a check when placing towers to see if its placed on a grid node (line trace downwards)
-- created a new gun child class called shotgun
-	- made it shoot in a random directionm
-	- made it shoot multiuple pellets in a random direction
-	- added shotgun mesh and montage
-		- mentioned assests used: silver weapons, 3rd person anims
-		- Made the current animation blueprint a parent class and made a child shotgun class
-		- ovveride animations in shotgun class anim bp
-		- changed the crossfade settings of the shotgun's fire wav file so that the shogun can still be heard when the player is moving.
-		- Adjusted shotgun spawn location in hand
-		- made it so that the gun spawn location changes based on the class
-- Issue: being able to shoot gun as fast as you could click
-	- now the gun only shoots on click after a set time (fire rate)
-- Added sprint mechanic
-	- Helps for the player to reach enemies near the defence point
-	- Added animation
-		- 3rd person anim pack
-		- set anim to play in BS when reachin higher speed
-- Added shotgun tower
-	- Moved random pellet offset code to BFL to be used by tower class
-	- Updated UI and tower stats with shotgun tower
-	- Issue: walls not showing correctly
+- Improved the main menu level
+-Made a BFL function ehich takes an array of buttons and sets their style
+	- Used for all UI menus
+- Made credits screen
+- Made options menu
+	- can be accessed in main menu and pause menu
+- Made weapon select menu
+	- stores the weapon choice in the game inatcen and retirevies it when spawning player
+- Enemy attack anim and sound effect
+	- sound effect when player hit
+	- monster anim
+	- monster sound effects 2
+- Enemy and player footstep SE
+	- monster sound effects 2
+- Enemy Shot at SE
+	- monster sound effects 2
+- Added main menu and in game BGM
+	- EDM pack
+	
+UPDATE CREDITS
+
+
+
 GITHUB
