@@ -1,29 +1,12 @@
-- Improved the main menu level
--Made a BFL function ehich takes an array of buttons and sets their style
-	- Used for all UI menus
-- Made credits screen
-- Made options menu
-	- can be accessed in main menu and pause menu
-- Made weapon select menu
-	- stores the weapon choice in the game inatcen and retirevies it when spawning player
-- Enemy attack anim and sound effect
-	- sound effect when player hit
-	- monster anim
-	- monster sound effects 2
-- Enemy and player footstep SE
-	- monster sound effects 2
-- Enemy Shot at SE
-	- monster sound effects 2
-- Added main menu and in game BGM
-	- EDM pack
-- Meshed level 2 & Updated Main Menu Level
-	- Sci fi 1
-	- sci fi 2
-- Players Can press t to skip countodwn
-
-
-	
-UPDATE CREDITS
+- added controls menu to main menu and pause menu
+- Added lives to HUD
+- Added a lose screen, called when no lives left
+	- edm
+- Added a win screen, called when all waves complete
+	- edm
+- stats menu
+	- games played, wins, kills, points, deaths
+	- uses save game blueprint to load(stats menu) and sava data (in game)
 
 
 
