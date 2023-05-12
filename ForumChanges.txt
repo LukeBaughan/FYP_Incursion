@@ -1,12 +1,4 @@
-- added controls menu to main menu and pause menu
-- Added lives to HUD
-- Added a lose screen, called when no lives left
-	- edm
-- Added a win screen, called when all waves complete
-	- edm
-- stats menu
-	- games played, wins, kills, points, deaths
-	- uses save game blueprint to load(stats menu) and sava data (in game)
+
 
 
 
